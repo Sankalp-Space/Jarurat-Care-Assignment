@@ -162,3 +162,26 @@ Create Service: Send a POST request to http://localhost:5000/api/services with a
 
 Get Services: Send a GET request to http://localhost:5000/api/services to retrieve all services.
 
+
+Here’s some example data you can use for testing the API:
+
+[
+  {
+    "name": "General Checkup",
+    "description": "A comprehensive health checkup for general wellness.",
+    "price": 1500
+  },
+  {
+    "name": "Cardiology Consultation",
+    "description": "Consultation with a heart specialist.",
+    "price": 3000
+  },
+  {
+    "name": "Physiotherapy Session",
+    "description": "A session with a certified physiotherapist.",
+    "price": 1200
+  }
+]
+
+
+
