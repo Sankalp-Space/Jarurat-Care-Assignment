@@ -38,13 +38,21 @@ Follow these instructions to set up the project on your local machine.
 Installation:
 
 Clone the repository: 
+
+
 git clone https://github.com/Sankalp-Space/Jarurat-Care-Assignment.git
+
+
 
 cd Jarurat-Care-Assignment
 
 
+
 Install dependencies:
 npm install
+
+
+
 
 
 
@@ -54,8 +62,12 @@ If you are using MongoDB locally, ensure that MongoDB is installed and running. 
 
 
 
+
+
 Running the Application
+
 Start the server:
+
 node app.js
 
 
